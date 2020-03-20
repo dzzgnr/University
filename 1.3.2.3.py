@@ -1,0 +1,1 @@
+print('exist') if input("what to find : ") in input("where to find : ") else print('does not exist') # вывод "входит" если то что мы ввели первым находится в том что ввели вторым, вывод "не входит" иначе
